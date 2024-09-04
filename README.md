@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 😄 I'm a JAVA developer for 6 years
+- 🔭 I’m currently working on「Party Flash」, a flutter APP which you can use when you need some ✨Psychic Lighting✨ partying
+- 🌱 I’m currently learning Flutter to launch as many APPs as possible!
+- 📫 How to reach me: ujinjeong55@gmail.com
+- ⚡ Fun fact: I majored in Sociology
+
+
 <!--
 **woojoovove/woojoovove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
