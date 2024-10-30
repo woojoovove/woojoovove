@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on「Party Flash」, a flutter APP which you can use when you need some ✨Psychic Lighting✨ partying
 - 🌱 I’m currently learning Flutter to launch as many APPs as possible!
 - 📫 How to reach me: ujinjeong55@gmail.com
+- 🖊️ Check out my engineering blog at : [와와의 개발 이야기](https://woojoovove.tistory.com/)
+- 🎖️ LeetCode Daily Streak Fighter [LeetCode Profile](https://leetcode.com/u/woojoovove/)
 - ⚡ Fun fact: I majored in Sociology
 
 
